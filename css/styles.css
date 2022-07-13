@@ -745,7 +745,7 @@ body {
 }
 
 .flex-element {
-    width: calc((100% - 60px - 12px) / 3);
+    width: calc((100% - 60px) / 3);
     height: 404px;
     margin-bottom: 30px;
     margin-right: 30px;
